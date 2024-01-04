@@ -1,0 +1,25 @@
+# Simple Pygame Game
+
+Un juego simple desarrollado con Pygame.
+
+## Descripción
+
+Este juego presenta un jugador controlado por el usuario que debe evitar colisionar con un enemigo que se mueve automáticamente desde la parte superior de la ventana. El jugador puede moverse a la izquierda y a la derecha para esquivar al enemigo. El juego termina cuando hay una colisión.
+
+## Requisitos
+
+- Python 3
+- Pygame
+
+## Instrucciones de ejecución
+
+1. Instala Python 3 si aún no lo tienes.
+2. Instala Pygame ejecutando `pip install pygame` en tu terminal.
+3. Descarga el código fuente de este juego.
+4. Ejecuta el juego utilizando `python nombre_del_archivo.py` en tu terminal.
+
+## Controles
+
+- **Izquierda**: Tecla de flecha izquierda
+- **Derecha**: Tecla de flecha derecha
+- **Comenzar juego**: Barra espaciadora
